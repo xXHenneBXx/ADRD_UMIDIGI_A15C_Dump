@@ -11,4 +11,4 @@
 - is_ab: true
 - brand: UMIDIGI
 - branch: UMIDIGI_A15C_V1.0_20241023
-- repo: umidigi_umidigi_a15c_dump
+- repo: ADRD_UMIDIGI_A15C_Dump
