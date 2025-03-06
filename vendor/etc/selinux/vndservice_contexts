@@ -1,0 +1,13 @@
+#line 1 "system/sepolicy/vendor/vndservice_contexts"
+manager                 u:object_r:service_manager_vndservice:s0
+*                       u:object_r:default_android_vndservice:s0
+#line 1 "device/sprd/mpool/module/vendor/camera/msepolicy/vendor/vndservice_contexts"
+android.IRemosaicDaemon u:object_r:remosaic_daemon_service:s0
+
+#line 1 "vendor/sprd/partner/fortsense_9012/sepolicy/vndservice_contexts"
+
+# Fortsense: Please append the following line to the end of
+# ${ANDROID_BUILD_TOP}/device/${VENDOR}/${TARGET_PRODUCT}/sepolicy/service_contexts
+# to label 'FortsenseFingerprintService'.
+FsFingerprintService  u:object_r:sf_service:s0
+
