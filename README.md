@@ -1,3 +1,5 @@
+***xXHenneBXx***
+
 # UMIDIGI_A15C_V1.0_20241023
 - manufacturer: umidigi
 - platform: ums9230
