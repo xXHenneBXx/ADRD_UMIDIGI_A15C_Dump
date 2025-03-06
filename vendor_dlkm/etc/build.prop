@@ -1,0 +1,21 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=UMIDIGI
+ro.product.vendor_dlkm.device=UMIDIGI_A15C
+ro.product.vendor_dlkm.manufacturer=UMIDIGI
+ro.product.vendor_dlkm.model=MP34
+ro.product.vendor_dlkm.name=UMIDIGI_A15C
+ro.vendor_dlkm.build.date=Wed Oct 23 16:48:45 CST 2024
+ro.vendor_dlkm.build.date.utc=1729673325
+ro.vendor_dlkm.build.fingerprint=UMIDIGI/UMIDIGI_A15C/UMIDIGI_A15C:13/TP1A.220624.014/2410231303:user/release-keys
+ro.vendor_dlkm.build.id=TP1A.220624.014
+ro.vendor_dlkm.build.tags=release-keys
+ro.vendor_dlkm.build.type=user
+ro.vendor_dlkm.build.version.incremental=2410231303
+ro.vendor_dlkm.build.version.release=13
+ro.vendor_dlkm.build.version.release_or_codename=13
+ro.vendor_dlkm.build.version.sdk=33
+ro.vendor_dlkm.custom.version=UMIDIGI_A15C_V1.0
+# end of file
